@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: ORDER-SERVICE
+    
+microservice :
+  orderservice:
+    endpoint:
+      uri: http://ORDER-SERVICE/ms1/order    
