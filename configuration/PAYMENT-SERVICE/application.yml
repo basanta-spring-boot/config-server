@@ -1,8 +1,0 @@
-spring:
-  application:
-    name: PAYMENT-SERVICE
-    
-microservice :
-  paymentservice:
-    endpoint:
-      uri: http://PAYMENT-SERVICE/ms2/payment   
